@@ -5,20 +5,12 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby 2.6.6
 
-* System dependencies
+* PostgreSQL 12+
 
-* Configuration
+* bundle exec rake db:migrate
 
-* Database creation
+* bundle exec rake db_migrate:task_01
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* bundle exec rails server
