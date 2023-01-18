@@ -248,7 +248,7 @@ GEM
       activerecord (>= 5.2)
       activesupport (>= 5.2)
     puma (3.12.6)
-    rack (2.2.3)
+    rack (2.2.6.2)
     rack-accept (0.4.5)
       rack (>= 0.4)
     rack-protection (2.0.8.1)
